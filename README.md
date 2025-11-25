@@ -50,7 +50,7 @@ I'm a **Software Engineer** passionate about building reliable and efficient sys
 Outside of engineering, I enjoy:
 - *Watching anime*
 - *Playing video games*
-- *Gym*
+- *Gym and Soccer*
 
 ---
 
