@@ -48,7 +48,7 @@ I'm a **Software Engineer** passionate about building reliable and efficient sys
 
 ## 🎯 Interests & Hobbies
 Outside of engineering, I enjoy:
-- *Watching anime*
+- *Tinkering with electronics*
 - *Playing video games*
 - *Gym and Soccer*
 
