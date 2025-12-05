@@ -57,4 +57,4 @@ Outside of engineering, I enjoy:
 ## 📫 Connect With Me
 - **Email:** abilaash.u001@gmail.com
 - **Portfolio:** [abilaashportfolio.netlify.app](https://abilaashportfolio.netlify.app)
-- **LinkedIn:** [LinkedIn/Abilaash](www.linkedin.com/in/abilaash01)
+- **LinkedIn:** [LinkedIn.Abilaash](https://www.linkedin.com/in/abilaash01)
