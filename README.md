@@ -78,8 +78,8 @@ I enjoy working close to the hardware—designing reliable firmware, debugging s
 ---
 
 ## 🎓 Education
-**BASc in Computer Engineering (Co-op)**
-University of Ottawa — *cum laude*
+**BASc in Computer Engineering (Co-op)**  
+University of Ottawa — *cum laude*  
 Relevant coursework:
 - Embedded Systems & Microcontrollers
 - Computer Architecture
