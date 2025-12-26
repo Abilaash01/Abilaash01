@@ -68,9 +68,6 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48"/>
 
-  <!-- ARM architecture -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arm/arm-original.svg" width="48"/>
-
   <!-- Docker (embedded Linux / tooling relevance) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
 </p>
@@ -109,6 +106,7 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
 
 ## 🔌 Embedded & Systems Concepts
 
+- ARM Cortex-M/A/R Architectures
 - Bare-metal and RTOS-based development
 - GPIO, SPI, I²C, UART, timers, interrupts
 - Memory-mapped I/O and register-level programming
