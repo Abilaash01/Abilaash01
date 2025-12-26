@@ -40,6 +40,8 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/>
 
   <!-- Rust (official logo, more reliable than Devicon) -->
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="48"/>
