@@ -53,9 +53,6 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
   <!-- Arduino IDE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48"/>
 
-  <!-- PlatformIO -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" width="48"/>
-
   <!-- CMake (commonly paired with STM32 / embedded builds) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="48"/>
 
