@@ -56,8 +56,8 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
   <!-- PlatformIO -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" width="48"/>
 
-  <!-- STM32 (no CubeIDE logo exists; STM32 == accepted substitute) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stmicroelectronics/stmicroelectronics-original.svg" width="48"/>
+  <!-- CMake (commonly paired with STM32 / embedded builds) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="48"/>
 
   <!-- Embedded C toolchain / debugging proxy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
