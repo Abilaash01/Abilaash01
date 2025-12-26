@@ -10,10 +10,10 @@
   <a href="https://abilaashportfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=firefox-browser">
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
+  <a href="https://x.com/Abi__0001">
     <img src="https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=x">
   </a>
-  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+  <a href="https://www.youtube.com/@abilaashuthayachandran5318">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
   </a>
 </p>
@@ -36,7 +36,7 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="45" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ---
