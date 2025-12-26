@@ -50,19 +50,18 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
 ## 🛠️ Embedded Tools & IDEs
 
 <p align="left">
-  <!-- STM32 / ST -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/STMicroelectronics_logo.svg" width="70"/>
-
-  <!-- Arduino -->
+  <!-- Arduino IDE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48"/>
 
   <!-- PlatformIO -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" width="48"/>
 
-  <!-- GDB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Gdb_logo.svg" width="48"/>
-</p>
+  <!-- STM32 (no CubeIDE logo exists; STM32 == accepted substitute) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stmicroelectronics/stmicroelectronics-original.svg" width="48"/>
 
+  <!-- Embedded C toolchain / debugging proxy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
+</p>
 
 ---
 
@@ -71,9 +70,14 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Arm_logo_2017.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/STMicroelectronics_logo.svg" width="70"/>
+
+  <!-- ARM architecture -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arm/arm-original.svg" width="48"/>
+
+  <!-- Docker (embedded Linux / tooling relevance) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
 </p>
+
 
 ---
 
