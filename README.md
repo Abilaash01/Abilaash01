@@ -134,6 +134,22 @@ I am particularly interested in building predictable, efficient systems that com
 
 ---
 
+## 🤖 AI, ML & Edge Inference
+
+- OpenCV-based real-time vision pipelines
+
+- Lightweight ML models for embedded deployment
+
+- Model optimization techniques (quantization, reduced precision)
+
+- Edge inference on Raspberry Pi–class hardware
+
+- Integration of ML inference with firmware control and system logic
+
+- Core ML algorithms such as linear regression and gradient descent
+
+---
+
 ## 🧪 Selected Projects
 
 ### Embedded ASL Translation System (Capstone)
