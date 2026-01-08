@@ -22,10 +22,11 @@
 
 ### 💻 Computer Engineer | Embedded Systems & Firmware
 
-I specialize in **embedded systems and firmware development**, building software that interfaces directly with hardware.
-My interests include **SoC platforms, real-time systems, IoT, robotics, and low-level software**, backed by strong foundations in computer architecture and operating systems.
+I specialize in embedded systems and firmware development, with a focus on AI and machine learning integration on edge and resource-constrained devices.
 
-I enjoy working close to the hardware—designing predictable firmware, debugging system-level issues, and integrating software across the stack.
+My work spans bare-metal and embedded Linux systems, low-level firmware, and end-to-end embedded AI pipelines—from real-time sensor acquisition to optimized ML inference running close to the hardware.
+
+I am particularly interested in building predictable, efficient systems that combine traditional embedded control logic with ML-driven perception and decision-making for IoT, robotics, and intelligent devices.
 
 ---
 
@@ -64,6 +65,23 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
 
 ---
 
+## 🤖 AI & Machine Learning
+
+<p align="left">
+  <!-- OpenCV --> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <!-- SciPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="48"/>
+</p>
+
+---
+
 ## 🧰 Platforms & Operating Systems
 
 <p align="left">
@@ -73,7 +91,6 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
   <!-- Docker (embedded Linux / tooling relevance) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
 </p>
-
 
 ---
 
@@ -95,7 +112,7 @@ I enjoy working close to the hardware—designing predictable firmware, debuggin
 
 ---
 
-⚙️ DevOps, Tooling & Automation
+## ⚙️ DevOps, Tooling & Automation
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
