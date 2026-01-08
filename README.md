@@ -22,7 +22,7 @@
 
 ### 💻 Computer Engineer | Embedded Systems & Firmware
 
-I specialize in **embedded systems and firmware development**, building software that interfaces directly with hardware.  
+I specialize in **embedded systems and firmware development**, building software that interfaces directly with hardware.
 My interests include **SoC platforms, real-time systems, IoT, robotics, and low-level software**, backed by strong foundations in computer architecture and operating systems.
 
 I enjoy working close to the hardware—designing predictable firmware, debugging system-level issues, and integrating software across the stack.
