@@ -20,13 +20,13 @@
 
 ---
 
-### 💻 Computer Engineer | Embedded Systems & Firmware
+### 💻 Computer Engineer | Embedded Systems & Software Developer
 
-I specialize in embedded systems and firmware development, with a focus on AI and machine learning integration on edge and resource-constrained devices.
+I’m a software developer with experience in backend, full-stack, and embedded systems. I build reliable applications and embedded firmware, working with Python, C/C++, Node.js, and SQL.
 
-My work spans bare-metal and embedded Linux systems, low-level firmware, and end-to-end embedded AI pipelines—from real-time sensor acquisition to optimized ML inference running close to the hardware.
+I enjoy designing end-to-end systems—from APIs and databases to real-time sensor acquisition and optimized ML inference on edge devices. My work combines traditional embedded control with software engineering practices like CI/CD, testing, and cloud integration.
 
-I am particularly interested in building predictable, efficient systems that combine traditional embedded control logic with ML-driven perception and decision-making for IoT, robotics, and intelligent devices.
+I’m passionate about creating efficient, maintainable systems that bridge hardware and software, from IoT and robotics to intelligent devices.
 
 ---
 
