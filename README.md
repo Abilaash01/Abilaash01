@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abilaash, an aspiring VLSI Design & Verification Engineer
+# 👋 Hi, I'm Abilaash an aspiring VLSI Design & Verification Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abilaash01">
@@ -22,6 +22,16 @@
 I design and verify digital hardware from the register-transfer level down to the gate — pipelined processors, FSM-based controllers, and FPGA-validated logic. My background spans structural VHDL design, FPGA implementation, and system-level validation on multi-ECU hardware-in-the-loop benches, giving me both the RTL fluency and the debug discipline that pre-silicon validation demands.
 
 I care about correctness at the waveform level: hazard-free pipelines, clean timing closure, and testbenches that actually catch bugs before silicon does.
+
+---
+
+## 🎯 Roles I'm Targeting
+
+- **RTL Design Engineer** — turning architectural specs into synthesizable, hazard-free RTL
+- **Design Verification (DV) Engineer** — testbenches, coverage, and pre-silicon bug hunting
+- **CPU Architecture / Physical Design** — longer-term interest as projects push closer to silicon
+
+Open to opportunities at semiconductor and fabless companies building next-gen compute.
 
 ---
 
