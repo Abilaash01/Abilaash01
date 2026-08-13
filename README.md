@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abilaash
+<h1 align="center">👋 Hi, I'm Abilaash</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abilaash01">
