@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abilaash an aspiring VLSI Design & Verification Engineer
+# 👋 Hi, I'm Abilaash
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abilaash01">
@@ -28,8 +28,10 @@ I care about correctness at the waveform level: hazard-free pipelines, clean tim
 ## 🎯 Roles I'm Targeting
 
 - **RTL Design Engineer** — turning architectural specs into synthesizable, hazard-free RTL
+- **ASIC Design Engineer** — RTL-to-gate design for custom silicon
+- **FPGA Engineer** — synthesis, timing closure, and hardware validation on real boards
 - **Design Verification (DV) Engineer** — testbenches, coverage, and pre-silicon bug hunting
-- **CPU Architecture / Physical Design** — longer-term interest as projects push closer to silicon
+- **SoC / CPU Architecture / Physical Design** — longer-term interest as projects push closer to silicon
 
 Open to opportunities at semiconductor and fabless companies building next-gen compute.
 
