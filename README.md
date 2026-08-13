@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abilaash
+# 👋 Hi, I'm Abilaash, an aspiring VLSI Design & Verification Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abilaash01">
@@ -10,183 +10,63 @@
   <a href="https://abilaashportfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=firefox-browser">
   </a>
-  <a href="https://x.com/Abi__0001">
-    <img src="https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=x">
-  </a>
-  <a href="https://www.youtube.com/@abilaashuthayachandran5318">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
+  <a href="https://github.com/abilaash01">
+    <img src="https://img.shields.io/badge/GitHub-abilaash01-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-### 💻 Computer Engineer | Embedded Systems & Software Developer
+### ⚙️ Computer Engineer | RTL Design & Digital Verification
 
-I’m a software developer with experience in backend, full-stack, and embedded systems. I build reliable applications and embedded firmware, working with Python, C/C++, Node.js, and SQL.
+I design and verify digital hardware from the register-transfer level down to the gate — pipelined processors, FSM-based controllers, and FPGA-validated logic. My background spans structural VHDL design, FPGA implementation, and system-level validation on multi-ECU hardware-in-the-loop benches, giving me both the RTL fluency and the debug discipline that pre-silicon validation demands.
 
-I enjoy designing end-to-end systems—from APIs and databases to real-time sensor acquisition and optimized ML inference on edge devices. My work combines traditional embedded control with software engineering practices like CI/CD, testing, and cloud integration.
-
-I’m passionate about creating efficient, maintainable systems that bridge hardware and software, from IoT and robotics to intelligent devices.
+I care about correctness at the waveform level: hazard-free pipelines, clean timing closure, and testbenches that actually catch bugs before silicon does.
 
 ---
 
-## 🧠 Programming Languages
+## 🔩 Core Skills
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/>
-
-  <!-- Rust (official logo, more reliable than Devicon) -->
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="48"/>
-</p>
+| Domain | Skills |
+|---|---|
+| **RTL Design** | VHDL, structural & FSM-based design (Moore/Mealy), pipelining, hazard detection/forwarding, arithmetic unit design |
+| **Verification** | ModelSim simulation, waveform debug, gate-level timing/critical-path analysis |
+| **Digital Logic** | Combinational/sequential design, ripple-carry adders, shift-and-add multipliers, 2's-complement arithmetic |
+| **FPGA** | Quartus II/Prime, Altera DE2 (Cyclone IV) — synthesis through hardware validation |
+| **Embedded / RTOS** | STM32 HAL, FreeRTOS multitasking, ESP32 peripheral control (PWM/ADC/I²C) |
+| **Systems & Debug** | SSH-based ECU debug, CAN bus tracing, log correlation, SQL-driven regression analysis, Jenkins CI |
+| **Languages/Tools** | VHDL, C/C++, Rust, Python, Git, Linux |
 
 ---
 
-## 🛠️ Embedded Tools & IDEs
+## 🧪 Featured Hardware Projects
 
-<p align="left">
-  <!-- Arduino IDE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48"/>
+### 🔹 5-Stage Pipelined RISC Processor — Structural VHDL
+Cycle-accurate, MIPS-style pipeline (IF/ID/EX/MEM/WB) built entirely at the RTL level with structural VHDL. Custom **hazard detection unit** and **forwarding unit** resolve RAW/load-use dependencies; gate-level critical-path analysis quantifies max clock frequency and throughput gains over a single-cycle baseline.
 
-  <!-- CMake (commonly paired with STM32 / embedded builds) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="48"/>
+### 🔹 FPGA Traffic Light Controller — FSM Design, Quartus / ModelSim
+Synchronous FSM controller taken through the full formal design flow — state diagram → state table → reduction → encoding → excitation equations → RTL — implemented in both Moore and Mealy forms, no vendor IP, and hardware-validated on an Altera DE2 (Cyclone IV) board.
 
-  <!-- Embedded C toolchain / debugging proxy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
-</p>
+### 🔹 Fixed-Point Arithmetic Units — Structural VHDL
+Ripple-carry adder/subtractor and a shift-and-add signed multiplier built up from a 1-bit full adder, using 2's-complement arithmetic. Synthesized and tested on DE-2 FPGA hardware.
 
----
-
-## 🤖 AI & Machine Learning
-
-<p align="left">
-  <!-- OpenCV --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
-  <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-</p>
+### 🔹 Real-Time Alarm System — STM32 / FreeRTOS
+Multi-tasking embedded system on an STM32F446RE running five concurrent FreeRTOS tasks (sensor polling, keypad input, OLED display, dual alarm outputs) over HAL drivers and custom peripheral code — real-time scheduling under hardware constraints.
 
 ---
 
-## 🧰 Platforms & Operating Systems
+## 💼 Relevant Experience
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48"/>
-
-  <!-- Docker (embedded Linux / tooling relevance) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
-</p>
-
----
-
-## 🌐 Web & Backend Technologies
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
-</p>
-
----
-
-## ⚙️ DevOps, Tooling & Automation
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48"/>
-</p>
-
----
-
-## 🔌 Embedded & Systems Concepts
-
-- ARM Cortex-M/A/R Architectures
-- Bare-metal and RTOS-based development
-- GPIO, SPI, I²C, UART, timers, interrupts
-- Memory-mapped I/O and register-level programming
-- Boot processes and system initialization
-- Multithreading, concurrency, synchronization
-- Embedded Linux internals
-- Hardware–software integration
-
----
-
-## 🤖 AI, ML & Edge Inference
-
-- OpenCV-based real-time vision pipelines
-- Lightweight ML models for embedded deployment
-- Model optimization techniques (quantization, reduced precision)
-- Edge inference on Raspberry Pi–class hardware
-- Integration of ML inference with firmware control and system logic
-- Core ML algorithms such as linear regression and gradient descent
-
----
-
-## 🧪 Selected Projects
-
-### Embedded ASL Translation System (Capstone)
-- Designed a Raspberry Pi–based embedded system for real-time sign language translation
-- Integrated sensors and peripherals via SPI under embedded Linux
-- Implemented low-latency gesture recognition using OpenCV and ML models
-
-### Custom 64-bit Operating System Kernel
-- Built a minimal OS kernel in C++ and Assembly
-- Implemented bootstrapping, memory management, interrupts, and basic I/O
-- Validated system behavior in a virtualized environment
-
-### Multithreaded Server (Rust)
-- Developed a concurrent server emphasizing correctness and thread safety
-- Applied low-level synchronization primitives for performance and reliability
-
-*(More details available in pinned repositories)*
+**V&V Software Engineer in Test — Ford Motor Company R&D**
+Pre-submit validation on multi-ECU hardware-in-the-loop benches: triaging regression failures down to test/node/code root cause, SSH-based system debug, CAN trace correlation, and SQL-based regression health tracking across a large-scale HiL test infrastructure.
 
 ---
 
 ## 🎓 Education
 
-**BASc in Computer Engineering (Co-op)**  
-University of Ottawa — *cum laude*
-
-Relevant coursework:
-- Embedded Systems & Microcontrollers
-- Computer Architecture
-- Operating Systems
-- Digital Systems
-- Computer Network Design
-- Real-Time Systems Design
+**BASc in Computer Engineering (Co-op)** — University of Ottawa
+Computer Architecture · Digital Systems · Embedded Systems · Operating Systems · Real-Time Systems Design
 
 ---
 
-## 💡 Engineering Interests
-
-- Writing **efficient, predictable, and maintainable firmware**
-- Understanding systems from **silicon to software**
-- Debugging complex hardware–software interactions
-- Building technology that interacts with the physical world
-
----
-
-⚡ *Always learning. Always building. Especially close to the hardware.*
+⚡ *Building hardware that has to be right the first time — from spec to waveform to silicon.*
